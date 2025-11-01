@@ -5,7 +5,7 @@ A blockchain-based system to verify authorship and originality of AI-generated c
 
 ## 🌐 Live Demo
 
-**Deployed Application**: [Add your Vercel URL here]
+**Deployed Application**: https://proof-of-prompt-rose.vercel.app/
 
 **Smart Contract (Sepolia)**: [`0x230a167213fa8f007beC59BeC43E31bEddf8fca0`](https://sepolia.etherscan.io/address/0x230a167213fa8f007beC59BeC43E31bEddf8fca0)
 
