@@ -1,23 +1,26 @@
-logs
-*.log
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-pnpm-debug.log*
-lerna-debug.log*
 
-node_modules
-dist
-dist-ssr
-*.local
+---
 
-.vscode/*
-!.vscode/extensions.json
-.idea
-.DS_Store
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
-*.sw?
+### **3. 📝 Update `.gitignore`**
+
+
+
+```gitignore
+# Environment files
 .env
+.env.local
+.env.*.local
+
+
+*.pem
+*.key
+private-keys/
+
+# Build artifacts
+dist/
+build/
+node_modules/
+
+# Hardhat
+cache/
+artifacts/
