@@ -7,9 +7,9 @@
 **Environment Variables (.env):**
 ```
 VITE_CONTRACT_ADDRESS=0xa2226daba48eb63adb589db5829faa21af6d812d
-VITE_RPC_URL=https://sepolia.infura.io/v3/69a3d2413638470995c5544ec4cfede8
-RPC_URL=https://sepolia.infura.io/v3/69a3d2413638470995c5544ec4cfede8
-DEPLOYER_PRIVATE_KEY=bbded294b45a444ba1b2ea65458ea0a1308d821cff5d5a77724f5cd742f9ebff
+VITE_RPC_URL=https://sepolia.infura.io/v3/YOUR_INFURA_PROJECT_ID
+RPC_URL=https://sepolia.infura.io/v3/YOUR_INFURA_PROJECT_ID
+DEPLOYER_PRIVATE_KEY=your_private_key_here_DO_NOT_COMMIT
 ```
 
 ### Code Changes Applied
